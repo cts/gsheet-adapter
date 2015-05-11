@@ -1,0 +1,3 @@
+This code is licensed under the BSD License.
+
+Any portions of Google's client-API for Javascript are being distributed under a BSD license. Our undersatnding is that Google's code is licensed under the Apache license, which allows derivative work to use a different license. We elect to use BSD.
